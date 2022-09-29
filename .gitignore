@@ -10,3 +10,5 @@ media
 *$py.class
 venv
 btre_resources
+/media
+/static
